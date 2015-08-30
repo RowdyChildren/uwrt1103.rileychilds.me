@@ -9,4 +9,4 @@ image:
 ---
 
 
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=zNQs_KtlGEQE.k5R3NxN9Mxhg" width="640" height="480"></iframe>
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=zNQs_KtlGEQE.k5R3NxN9Mxhg" width="800" height="800" ></iframe>
