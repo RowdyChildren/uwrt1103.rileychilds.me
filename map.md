@@ -4,8 +4,7 @@ permalink: /lit-map/
 title: Literacy Map
 description: "My Lit  Map"
 tags: [litmap]
-image: 
-  feature: map-google.jpg
+imagefeature: map-google.jpg
 ---
 
 
