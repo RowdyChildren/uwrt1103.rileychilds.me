@@ -51,10 +51,10 @@ links:
     url: /
     external: false
     icon: home
-  - title: Links go here!
-    url: /
+  - title: Literacy Map
+    url: /lit-map
     external: false
-    icon: home
+    icon: map
   - title: Home
     url: /
     external: false
