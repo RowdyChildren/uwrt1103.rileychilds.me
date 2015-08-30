@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home
 permalink: /lit-map/
 title: Literacy Map
 description: "My Lit  Map"
