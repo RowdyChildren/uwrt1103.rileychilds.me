@@ -8,4 +8,5 @@ imagefeature: map-google.jpg
 ---
 
 ##My Synthisis Paper
-<iframe src="https://docs.google.com/viewer?srcid=1E7srM2tUWaQ0NJ-xQKeDDysbjdlI4td8VlzK0a7bKkk/edit&pid=explorer&efh=false&a=v&chrome=false&embedded=true" width="580px" height="792px"></iframe>
+<iframe style="position: relative;
+    width: 100%;" src="https://docs.google.com/document/d/1E7srM2tUWaQ0NJ-xQKeDDysbjdlI4td8VlzK0a7bKkk/pub?embedded=true" width="580px" height="792px"></iframe>
