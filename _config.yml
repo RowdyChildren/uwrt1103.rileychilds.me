@@ -55,6 +55,10 @@ links:
     url: /lit-map
     external: false
     icon: home
+  - title: Inquiry Project
+    url: /inquiry
+    external: false
+    icon: home
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/New_York
 future:      true
