@@ -4,7 +4,7 @@ permalink: /inquiry/
 title: Inquiry Map and Synthisis Paper
 description: "Inquiry Map and Synthisis Paper"
 tags: [inquiry]
-imagefeature: map-google.jpg
+imagefeature: Credit-inquiry.jpg
 ---
 
 ##My Synthisis Paper
