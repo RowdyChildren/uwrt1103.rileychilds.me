@@ -1,6 +1,6 @@
 ---
 layout: home
-permalink: /inquiry/
+permalink: /genre/
 title: Genre Product and Defense Paper
 description: "Genre Product and Defense Paper"
 tags: [inquiry]
