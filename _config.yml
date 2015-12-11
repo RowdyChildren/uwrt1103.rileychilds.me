@@ -75,6 +75,10 @@ links:
     url: /journal-one
     external: false
     icon: home
+  - title: Journal Two
+    url: /journal-two
+    external: false
+    icon: home
   - title: Peer Review Growth
     url: /peer-review
     external: false
@@ -85,6 +89,14 @@ links:
     icon: home  
   - title: Peer Feedback Two
     url: /feedback-two
+    external: false
+    icon: home
+  - title: Wildcard Outside Class
+    url: /wildcard-out
+    external: false
+    icon: home
+  - title: Wildcard Inside Class
+    url: /wildcard-in
     external: false
     icon: home
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
