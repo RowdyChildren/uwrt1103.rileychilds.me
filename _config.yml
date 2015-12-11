@@ -54,13 +54,7 @@ links:
   - title: Literacy Map
     url: /lit-map
     external: false
-    icon: home  - title: Peer Feedback Two
-    url: /feedback-two
-    external: false
-    icon: home  - title: Peer Feedback Two
-    url: /feedback-two
-    external: false
-    icon: home
+    icon: home  
   - title: Inquiry Project
     url: /inquiry
     external: false
@@ -77,20 +71,20 @@ links:
     url: /discussion-two
     external: false
     icon: home
-  - title: Peer Feedback One
-    url: /feedback-one
-    external: false
-    icon: home
-  - title: Peer Feedback Two
-    url: /feedback-two
-    external: false
-    icon: home
   - title: Journal One
     url: /journal-one
     external: false
     icon: home
   - title: Peer Review Growth
     url: /peer-review
+    external: false
+    icon: home
+    - title: Peer Feedback One
+    url: /feedback-two
+    external: false
+    icon: home  
+  - title: Peer Feedback Two
+    url: /feedback-two
     external: false
     icon: home
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
